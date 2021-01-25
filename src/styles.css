@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'NeueHaasGroteskDisplay';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/NHaasGroteskDSPro-55Rg.woff2') format('woff2'), url('../fonts/NHaasGroteskDSPro-55Rg.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NeueHaasGroteskText';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/NHaasGroteskTXPro-55Rg.woff2') format('woff2'), url('../fonts/NHaasGroteskTXPro-55Rg.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NeueHaasGroteskText';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/NHaasGroteskTXPro-56It.woff2') format('woff2'), url('../fonts/NHaasGroteskTXPro-56It.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NeueHaasGroteskText';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/NHaasGroteskTXPro-65Md.woff2') format('woff2'), url('../fonts/NHaasGroteskTXPro-65Md.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NeueHaasGroteskText';
+    font-style: italic;
+    font-weight: 500;
+    src: url('../fonts/NHaasGroteskTXPro-66MdIt.woff2') format('woff2'), url('../fonts/NHaasGroteskTXPro-66MdIt.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NeueHaasGroteskText';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/NHaasGroteskTXPro-75Bd.woff2') format('woff2'), url('../fonts/NHaasGroteskTXPro-75Bd.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NeueHaasGroteskText';
+    font-style: italic;
+    font-weight: 700;
+    src: url('../fonts/NHaasGroteskTXPro-76BdIt.woff2') format('woff2'), url('../fonts/NHaasGroteskTXPro-76BdIt.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TimesNewRomanMTStd';
+    font-style: regular;
+    font-weight: 400;
+    src: url('../fonts/TimesNewRomanMTStd.woff2') format('woff2'), url('../fonts/TimesNewRomanMTStd.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TimesNewRomanMTStd';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/TimesNewRomanMTStd-Italic.woff2') format('woff2'), url('../fonts/TimesNewRomanMTStd-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TimesNewRomanMTStd';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/TimesNewRomanMTStd.woff2') format('woff2'), url('../fonts/TimesNewRomanMTStd.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TimesNewRomanMTStd';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/TimesNewRomanMTStd-Italic.woff2') format('woff2'), url('../fonts/TimesNewRomanMTStd-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TimesNewRomanMTStd';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/TimesNewRomanMTStd-Cond.woff2') format('woff2'), url('../fonts/TimesNewRomanMTStd-Cond.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'TimesNewRomanMTStd';
+    font-style: italic;
+    font-weight: 800;
+    src: url('../fonts/TimesNewRomanMTStd-CondIt.woff2') format('woff2'), url('../fonts/TimesNewRomanMTStd-CondIt.woff') format('woff');
+}
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
