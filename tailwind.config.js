@@ -6,6 +6,7 @@ module.exports = {
   theme: {
     extend: {
       spacing: {
+        22: '5.5rem',
         25: '6.25rem',
         25.5: '6.375rem',
       },
@@ -25,7 +26,6 @@ module.exports = {
       fontFamily: {
         neue_haas_grotesk_ds: ["NeueHaasGroteskDisplay"],
         neue_haas_grotesk_tx: ["NeueHaasGroteskText"],
-        times_new_roman_mt_std: ["TimesNewRomanMTStd"],
        },
 
        fontSize: {

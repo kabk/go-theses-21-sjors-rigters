@@ -207,7 +207,7 @@ $(document).ready(function() {
   });
 
   $(document).ready(function() {
-    $('#sanboxgame-title').click(function() {
+    $('#sandboxgame-title').click(function() {
       $('#sandboxgame-text').animate({
         height: "toggle"
       })
