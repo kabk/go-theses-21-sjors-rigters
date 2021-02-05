@@ -1,0 +1,10 @@
+html, body {
+    max-width: 100%;
+    background: black;
+    overflow-x: hidden;       
+    }
+  
+::selection {
+    color: black;
+    background: black;
+  }
